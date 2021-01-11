@@ -33,3 +33,6 @@
 Contact Me
 
 - [WHATSAPP](https://wa.me/6285939888897)
+
+<p align="center">
+<img src="https://c.top4top.io/p_1837oa3mq0.gif" alt="GIF" width="300" height="300"/>
