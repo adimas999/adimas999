@@ -39,7 +39,7 @@ Contact Me
 
 ___
 
-![MrDevils github stats](https://github-readme-stats.vercel.app/api?username=adimas999&show_icons=true&theme=buefy&show_owner=true)
+![MrDevils github stats](https://github-readme-stats.vercel.app/api?username=adimas999&show_icons=true&theme=tokyonight&show_owner=true)
 ___
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimas999&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimas999&count_private=true&show_icons=true&theme=buefy)
