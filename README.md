@@ -23,11 +23,6 @@
 <p align="center">
 <img src="https://animenine.com/assets/images/covid.gif" alt="GIF" width="200" height="28"/>
 
-## Information
-
-#### Hi semuanya saya MrDevils alias adimas prakoso. saya hanya seorang programing dan bug hunter bukan pembuat script.
-
-
 ## Contact
 
 Contact Me
