@@ -33,7 +33,7 @@ Contact Me
 <img src="https://c.top4top.io/p_1837oa3mq0.gif" alt="GIF" width="300" height="300"/>
 </p>
 <p align="center">
-<img src="https://k.top4top.io/p_1844uyek70.gif" alt="GIF" width="80" height="128"/>
+<img src="https://k.top4top.io/p_1844uyek70.gif" alt="GIF" width="300" height="128"/>
 </p>
 ___
 
