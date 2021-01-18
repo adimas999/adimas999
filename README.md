@@ -31,7 +31,10 @@ Contact Me
 
 <p align="center">
 <img src="https://c.top4top.io/p_1837oa3mq0.gif" alt="GIF" width="300" height="300"/>
-
+</p>
+<p align="center">
+<img src="https://k.top4top.io/p_1844uyek70.gif" alt="GIF" width="128" height="128"/>
+</p>
 ___
 
 ![MrDevils github stats](https://github-readme-stats.vercel.app/api?username=adimas999&show_icons=true&theme=tokyonight&show_owner=true)
